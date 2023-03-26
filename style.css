@@ -56,15 +56,3 @@ h2{
     letter-spacing: 1px;
 }
 
-@media (max-width: 900px){
-    body{
-       height: 80vh;
-    }
-        h1{
-        font-size: 3em;
-
-    }
-    h3{
-        font-size: 1.5em;
-    }
-}
